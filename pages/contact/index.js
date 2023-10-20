@@ -42,10 +42,9 @@ const Contact = () => {
             <input
               type="text"
               name="name"
-              // value={form.name}
-              // onChange={handleChange}
               placeholder="What's your good name?"
               className="input"
+              
             />
           </label>
           <label className="flex flex-col">

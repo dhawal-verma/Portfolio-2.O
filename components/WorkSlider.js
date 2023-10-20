@@ -30,22 +30,22 @@ export const workSlider = {
         {
           title: "title",
           path: "/thumb4.jpg",
-          link : "https://you-tube-web.netlify.app/"
+          link : "https://workdoto.netlify.app/"
         },
         {
           title: "title",
           path: "/thumb1.jpg",
-          link : "https://you-tube-web.netlify.app/"
+          link : "https://dhawal-verma-portfolio.netlify.app/"
         },
         {
           title: "title",
           path: "/thumb2.jpg",
-          link : "https://you-tube-web.netlify.app/"
+          link : "https://text-improve.netlify.app/"
         },
         {
           title: "title",
           path: "/thumb3.jpg",
-          link : "https://you-tube-web.netlify.app/"
+          link : "https://github.com/dhawal-verma"
         },
       ],
     },
